@@ -1,6 +1,6 @@
 # ADNCryptor
 
-A Simple to use wrapper for [Crypto++](https://github.com/weidai11/cryptopp). This is intened for developers who want to get started with encryption as soon as possible without going through Crypto++ extensive documentation.
+A simple to use wrapper for [Crypto++](https://github.com/weidai11/cryptopp). This is intened for developers who want to get started with encryption as soon as possible without going through [Crypto++](https://github.com/weidai11/cryptopp) extensive documentation.
 
 ### Build Instructions
 
